@@ -21,13 +21,7 @@ without launching it:
 cargo build --release
 ```
 
-## Run
-
-The provided `cargo run` command will launch a temporary node and its state will be discarded after
-you terminate the process. After the project has been built, there are other ways to launch the
-node.
-
-### Run Different Account
+## Run Different Account
 
 This command will start Alice's account:
 
